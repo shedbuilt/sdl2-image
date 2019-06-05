@@ -1,0 +1,8 @@
+NAME=sdl2-image
+VERSION=2.0.4
+REVISION=1
+LICENSE=Zlib
+SRC=https://www.libsdl.org/projects/SDL_image/release/SDL2_image-2.0.4.tar.gz
+SRCMD5=88b9766d5b64a67f82ba511c57e7ce10
+BUILDDEPS=sdl2 libjpeg-turbo libpng zlib
+INSTALLDEPS=sdl2 libjpeg-turbo libpng zlib
